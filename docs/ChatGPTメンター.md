@@ -15,7 +15,11 @@
 4. AGENTS.mdを読ませる
 プロジェクト設定の指示に自分のチームのレポジトリのAGENTS.mdのリンクを入れます。
 ```指示は以下を読んでください。
-https://github.com/winc1980/~/AGENTS.md```
+https://github.com/winc1980/~/AGENTS.md
+https://github.com/winc1980/~/AI_mentor.md
+```
+事前導入されているAIメンター設定を使わずに、自分なりのプロンプトで工夫してみたいという場合は、2行目のAI_mentor.mdへのリンクを削除してください。 
+自分で試行錯誤をすることも大切な勉強になります。
 
 ## 質問の仕方
 
