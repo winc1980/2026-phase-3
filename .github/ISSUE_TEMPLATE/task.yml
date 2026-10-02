@@ -21,8 +21,8 @@ body:
   - type: textarea
     id: refs
     attributes:
-      label: 参考（これだけ見ればOK）
-      description: 「〇〇の部分だけ」と範囲を書く。全部読ませない
+      label: 参考
+      description: あれば。
   - type: textarea
     id: files
     attributes:
