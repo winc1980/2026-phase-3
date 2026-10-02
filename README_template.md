@@ -1,3 +1,5 @@
+> 現在、このファイルはREADME_template.mdです。ファイル名をREADME.mdにしてから編集しましょう。
+
 # <プロジェクト名>
 
 > phase3の進め方は [docs/README.md](docs/README.md) を見てください。
